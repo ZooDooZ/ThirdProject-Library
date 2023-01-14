@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         User user = new User(1, "login", "pass", "name");
 
-        String TestCheckstyle = "test";
-        System.out.println(TestCheckstyle);
+        String testCheckstyle = "test";
+        System.out.println(testCheckstyle);
     }
 }
